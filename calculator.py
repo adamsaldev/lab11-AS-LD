@@ -1,8 +1,7 @@
-<<<<<<< Updated upstream
 # https://github.com/adamsaldev/lab11-AS-LD
 # Partner 1: Laylah Desravines
 # Partner 2: Adam Saleh
-=======
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
@@ -10,7 +9,6 @@ calculator.py
 One function per operation, in order.
 """
 #import math
->>>>>>> Stashed changes
 
 # First example
 import math
@@ -33,12 +31,9 @@ def subtract(a, b):
 def logarithm(a, b):
     return log(a, b)
 
-<<<<<<< Updated upstream
-=======
 def exp(a, b):
     return a ** b
-=======
->>>>>>> Stashed changes
+
 def add(a, b):
     return a+b
 

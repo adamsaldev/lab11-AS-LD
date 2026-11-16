@@ -1,3 +1,7 @@
+# https://github.com/adamsaldev/lab11-AS-LD
+# Partner 1: Laylah Desravines
+# Partner 2: Adam Saleh
+
 import unittest
 from calculator import *
 
